@@ -47,7 +47,7 @@ const Hero = () => {
           </div>
 
           <button className="bg-teal-800 hover:text-white py-3 px-3 rounded-xl  mt-10 flex items-center gap-2  text-lg md:text-xl xl:text-2xl ">
-            <Links href="/projects" label="Projects" />
+            <Links href="/" label="Projects" />
             <span>
               <MdArrowForward size={20} className="text-teal-500" />
             </span>
